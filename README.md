@@ -11,7 +11,7 @@ There will be examples of assignments and project work produced by myself betwee
 ## Examples of the following:
 
 ### AngularJS
-### jQuery Mobile
+### [jQuery Mobile] (https://github.com/redbairn/WebElevate/tree/master/ShoppingList)
 ### Web Service (PhP)
 ### HTML Build and PHP/MySQL Script
 ### Industry Partner Project (WordPress website and Game) - Cannot upload until client has published website or app as a finished product.
