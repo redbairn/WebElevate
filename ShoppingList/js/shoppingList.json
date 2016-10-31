@@ -1,0 +1,107 @@
+{
+	"item": [
+		{
+			"ID": "apple_page",
+			"HEADER": "Apple (Red Delicious)",
+			"DESCRIPTION": "The Red Delicious is a clone of apple cultigen, now comprising more than 50 cultivars, recognized in Madison County, Iowa, in 1880. According to the US Apple Association website it is one of the fifteen most popular apple cultivars in the United States",
+			"FOOTER": "The Footer for Apple"
+		},
+		{
+			"ID": "carrots_page",
+			"HEADER": "Carrots",
+			"DESCRIPTION": "The carrot (Daucus carota subsp. sativus) is a root vegetable, usually orange in colour, though purple, black, red, white, and yellow varieties exist. When fresh it has a crisp texture. The most commonly eaten part of a carrot is a taproot, although the greens are sometimes eaten as well. It is a domesticated form of the wild carrot Daucus carota, native to both Europe and southwestern Asia. The domestic carrot has been selectively bred for its greatly enlarged and more palatable, less woody-textured edible taproot. The Food and Agriculture Organization of the United Nations (FAO) reports that world production of carrots and turnips (these plants are combined by the FAO for reporting purposes) for calendar year 2011 was almost 35.658 million tonnes. Almost half were grown in China. Carrots are widely used in many cuisines, especially in preparation of salads, and carrot salads are a tradition in many regional cuisines.",
+			"FOOTER": "The Footer for Carrots"
+		},
+		{
+			"ID": "courgette_page",
+			"HEADER": "Courgette",
+			"DESCRIPTION": "Zucchini (/zuːˈkiːniː/) or courgette (/kʊərˈʒɛt/, British English) is a summer squash which can reach nearly a meter in length, but which is usually harvested at half that size or less. In England, a fully grown zucchini is referred to as a marrow. Along with certain other squashes and pumpkins, it belongs to the species Cucurbita pepo. Zucchini can be dark or light green. A related hybrid, the golden zucchini, is a deep yellow or orange color. In a culinary context, zucchini is treated as a vegetable; it is usually cooked and presented as a savory dish or accompaniment. Botanically, zucchinis are fruits, a type of botanical berry, being the swollen ovary of the zucchini flower. Zucchini, like all squash, has its ancestry in the Americas. However, the varieties of squash typically called \"zucchini\" were developed in Italy, many generations after their introduction from the Americas.",
+			"FOOTER": "The Footer for Courgette"
+		},
+		{
+			"ID": "gochujang_page",
+			"HEADER": "Gochujang",
+			"DESCRIPTION": "Gochujang(Korean: 고추장, IPA: [kotɕʰudʑaŋ] Koryo-mar:кочхицай/кочхидян (regional)) is a savory, spicy, and pungent fermented Korean condiment made from red chili, glutinous rice, fermented soybeans, and salt. Traditionally, it has been naturally fermented over years in large earthen pots outdoors, more often on an elevated stone platform, called jangdokdae (장독대) in the backyard.  Its HS code is 2103.90.1030.",
+			"FOOTER": "The Footer for Gochujang"
+		},
+		{
+			"ID": "jajangmyeon_page",
+			"HEADER": "Jajangmyeon",
+			"DESCRIPTION": "Jajangmyeon (자장면; 짜장면; jjajangmyeon), a Korean Chinese cuisine, is a noodle dish topped with a thick sauce made of chunjang (a salty black soybean paste when unheated), diced pork and vegetables, and sometimes also seafood. Jajang (alternately spelled jjajang), the name of the sauce when heated, is the Korean pronunciation of the Chinese characters 炸醬, which literally means \" deep fried sauce.\" Myeon (also spelled myun) means \"noodle\", which is represented by the Chinese character 麵.",
+			"FOOTER": "The Footer for Jajangmyeon"
+		},
+		{
+			"ID": "japchae_page",
+			"HEADER": "Japchae",
+			"DESCRIPTION": "Japchae, jabchae, chapchae, chop chae, or chap chae (Korean: 잡채) is a Korean dish made from sweet potato noodles (called dangmyeon, Korean: 당면), stir fried in sesame oil with vegetables[1] (typically thinly sliced carrots, onion, spinach, and mushrooms), sometimes served with beef, and flavoured with soy sauce, and sweetened with sugar. It is usually served garnished with sesame seeds and slivers of chili. It may be served hot or cold.  This dish is served at Korean parties and special occasions,[1] with seasonal vegetables added.  Japchae is most commonly served as a side dish, though it may be a main dish. It is sometimes served on a bed of rice; with rice it is known as japchae-bap (잡채밥), bap (밥) meaning \"rice.\"",
+			"FOOTER": "The Footer for Japchae"
+		},
+		{
+			"ID": "kimchi_page",
+			"HEADER": "Kimchi",
+			"DESCRIPTION": "Kimchi (Hangul: 김치, Korean: [kimtɕʰi]; English /ˈkɪmtʃi/), also spelled kimchee or gimchi, is a traditional fermented Korean side dish made of vegetables with a variety of seasonings. In traditional preparation, kimchi was stored underground in jars to keep cool during the summer months and unfrozen during the winter months. There are hundreds of varieties of kimchi made from napa cabbage, radish, scallion, or cucumber as a main ingredient.\"",
+			"FOOTER": "The Footer for Kimchi"
+		},
+		{
+			"ID": "mushrooms_page",
+			"HEADER": "Mushrooms",
+			"DESCRIPTION": "A mushroom (or toadstool) is the fleshy, spore-bearing fruiting body of a fungus, typically produced above ground on soil or on its food source.  The standard for the name \"mushroom\" is the cultivated white button mushroom, Agaricus bisporus; hence the word \"mushroom\" is most often applied to those fungi (Basidiomycota, Agaricomycetes) that have a stem (stipe), a cap (pileus), and gills (lamellae, sing. lamella) on the underside of the cap. These gills produce microscopic spores that help the fungus spread across the ground or its occupant surface.  \"Mushroom\" describes a variety of gilled fungi, with or without stems, and the term is used even more generally, to describe both the fleshy fruiting bodies of some Ascomycota and the woody or leathery fruiting bodies of some Basidiomycota, depending upon the context of the word.  Forms deviating from the standard morphology usually have more specific names, such as \"bolete\", \"puffball\", \"stinkhorn\", and \"morel\", and gilled mushrooms themselves are often called \"agarics\" in reference to their similarity to Agaricus or their place Agaricales. By extension, the term \"mushroom\" can also designate the entire fungus when in culture; the thallus (called a mycelium) of species forming the fruiting bodies called mushrooms; or the species itself.",
+			"FOOTER": "The Footer for Mushrooms"
+		},
+		{
+			"ID": "onions_page",
+			"HEADER": "Onions",
+			"DESCRIPTION": "The onion (Allium cepa L., from Latin cepa \"onion\"), also known as the bulb onion or common onion, is a vegetable and is the most widely cultivated species of the genus Allium.  This genus also contains several other species variously referred to as onions and cultivated for food, such as the Japanese bunching onion (Allium fistulosum), the tree onion (A. ×proliferum), and the Canada onion (Allium canadense). The name \"wild onion\" is applied to a number of Allium species, but A. cepa is exclusively known from cultivation. Its ancestral wild original form is not known, although escapes from cultivation have become established in some regions.[2] The onion is most frequently a biennial or a perennial plant, but is usually treated as an annual and harvested in its first growing season.  The onion plant has a fan of hollow, bluish-green leaves and the bulb at the base of the plant begins to swell when a certain day-length is reached. In the autumn (or in spring, in the case of overwintering onions), the foliage dies down and the outer layers of the bulb become dry and brittle. The crop is harvested and dried and the onions are ready for use or storage. The crop is prone to attack by a number of pests and diseases, particularly the onion fly, the onion eelworm, and various fungi cause rotting. Some varieties of A. cepa, such as shallots and potato onions, produce multiple bulbs.  Onions are cultivated and used around the world. As a food item, they are usually served cooked, as a vegetable or part of a prepared savoury dish, but can also be eaten raw or used to make pickles or chutneys. They are pungent when chopped and contain certain chemical substances which irritate the eyes.",
+			"FOOTER": "The Footer for Onions"
+		},
+		{
+			"ID": "samgyeopsal_page",
+			"HEADER": "Samgyeopsal",
+			"DESCRIPTION": "Samgyeopsal (삼겹살; Korean pronunciation: [sʰamɡjʌps͈al]) is a popular Korean dish that is commonly served as an evening meal. It consists of thick, fatty slices of pork belly meat. The meat, usually neither marinated nor seasoned, is cooked on a grill at the diners’ table. Usually diners grill the meat themselves and eat directly from a grill. It is typically served with ssamjang (Korean: 쌈장), vegetables, and lettuce leaves to wrap it in.",
+			"FOOTER": "The Footer for Samgyeopsal"
+		},
+		{
+			"ID": "samgyetang_page",
+			"HEADER": "Samgyetang",
+			"DESCRIPTION": "Samgyetang (Korean pronunciation: [sʰamɡjetʰaŋ]) means ginseng (kor. insam) - chicken (kor. gye) - soup (kor. tang). It consists primarily of a whole young chicken (poussin) - filled with garlic and rice -, scallion and spices, among them jujube and Korean ginseng.",
+			"FOOTER": "The Footer for Samgyetang"
+		},
+		{
+			"ID": "sesame_oil_page",
+			"HEADER": "Sesame oil",
+			"DESCRIPTION": "Sesame oil is an edible vegetable oil derived from sesame seeds. Besides being used as a cooking oil in South India, it is often used as a flavor enhancer in Korean, Chinese, Japanese, Middle Eastern, and Southeast Asian cuisine. It has a distinctive nutty aroma and taste.  The oil from the nutrient-rich seed is popular in alternative medicine, from traditional massages and treatments to the modern day.  The oil is popular in Asia and is also one of the earliest-known crop-based oils, but world-wide mass modern production continues to be limited even today due to the inefficient manual harvesting process required to extract the oil.",
+			"FOOTER": "The Footer for Sesame oil"
+		},
+		{
+			"ID": "soy_sauce_page",
+			"HEADER": "Soy sauce",
+			"DESCRIPTION": "Soy sauce (also called soya sauce) is a condiment made from a fermented paste of boiled soybeans, roasted grain, brine, and Aspergillus oryzae or Aspergillus sojae molds. It originated in China in the 2nd century AD and spread throughout East and Southeast Asia where it is used in cooking and as a condiment.",
+			"FOOTER": "The Footer for Soy sauce"
+		},
+		{
+			"ID": "ssam_page",
+			"HEADER": "Ssam",
+			"DESCRIPTION": "Ssam, sometimes also transliterated as ssäm, literally meaning \"wrapped\", refers to a dish in Korean cuisine in which, usually, leafy vegetables are used to wrap a piece of meat such as pork or other filling. It is often accompanied by a condiment known as ssamjang and can also be topped with raw or cooked garlic, onion, green pepper, or a banchan (small side dish) such as kimchi. Ssam is usually bite-sized to avoid spilling out the fillings.",
+			"FOOTER": "The Footer for Ssam"
+		},
+		{
+			"ID": "ssamjang_page",
+			"HEADER": "Ssamjang",
+			"DESCRIPTION": "Ssamjang is a thick, spicy paste used with food wrapped in a leaf in Korean cuisine. The sauce is made of doenjang, gochujang, sesame oil, onion, garlic, green onions, and optionally brown sugar.",
+			"FOOTER": "The Footer for Ssamjang"
+		},
+		{
+			"ID": "tteok_page",
+			"HEADER": "Tteok",
+			"DESCRIPTION": "Tteok (Hangul: 떡) (Korean pronunciation: [tʼʌk]; also spelled ddeock, duk, dduck, dduk, or thuck) is a class of Korean rice cakes made with glutinous rice flour (also known as sweet rice or chapssal), by steaming. Normal rice flour can be used for some kinds of tteok. There are hundreds of different kinds of tteok eaten year round. In Korea it is customary to eat tteok guk (tteok soup) on New Year's Day and sweet tteok at weddings and on birthdays. It is often considered a celebratory food and can range from rather elaborate versions with nuts and fruits down to the plain-flavored tteok used in home cooking. Some common ingredients for many kinds of tteok are mung bean, red bean, and sweet red bean paste, Korean mugwort, jujube and other dried fruits, sesame seeds and oil, sugar, and pine nuts.",
+			"FOOTER": "The Footer for Tteok"
+		},
+		{
+			"ID": "tofu_page",
+			"HEADER": "Tofu",
+			"DESCRIPTION": "Tofu, also known as bean curd, is a food made by coagulating soy milk and then pressing the resulting curds into soft white blocks. It is a component in East Asian and Southeast Asian cuisines. There are many different varieties of tofu, including fresh tofu and tofu that has been processed in some way. Tofu is bought or made to be soft, firm, or extra firm. Tofu has a subtle flavor and can be used in savory and sweet dishes. It is often seasoned or marinated to suit the dish.  Tofu originated in Han dynasty China some 2,000 years ago. Chinese legend ascribes its invention to prince Liu An (179–122 BC). Tofu and its production technique were introduced into Korea[when?] and then Japan during the Nara period (710–794). Some scholars believe tofu arrived in Vietnam during the 10th and 11th century. It spread into other parts of Southeast Asia as well. This spread probably coincided with the spread of Buddhism because it is an important source of protein in the vegetarian diet of East Asian Buddhism. Li Shizhen in the Ming Dynasty described a method of making tofu in the Compendium of Materia Medica.  Tofu has a low calorie count and relatively large amounts of protein. It is high in iron, and depending on the coagulants used in manufacturing (e.g. calcium chloride, calcium sulfate, magnesium sulfate), it can have higher calcium or magnesium content.  The term tofu by extension can be used in similarly textured curdled dishes that do not use soy products at all, such as \"almond tofu\" (almond jelly), tamago-dōfu (ja) (egg), goma-dōfu (ja) (sesame), or peanut tofu (Chinese 落花生豆腐 luòhuāshēng dòufu and Okinawan jīmāmi-dōfu (ja)).",
+			"FOOTER": "The Footer for Tofu"
+		}
+	]
+
+}

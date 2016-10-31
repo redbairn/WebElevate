@@ -1,0 +1,14 @@
+/************************************************************************************* 
+* Author: Craig Bell
+* Assignment: WE4.0 Mobile Web Applications, Digital Skills Academy 
+* Student ID: D15126839 
+* Date: 2016/05/16
+* Ref: ???
+************************************************************************************/
+
+/*******   Shopping List    *******/
+.ui-listview>.ui-li-divider {
+    background-color: #9ACD32;
+	opacity: 0.8;
+    color: #fff;
+}
