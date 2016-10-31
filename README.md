@@ -1,4 +1,4 @@
-# WebElevate
+# WebElevate :computer:
 WebElevate 4.0 BSc (Ordinary) in Digital Technology and Design (Level 7) http://www.webelevate.ie/
 
 WebElevate 4.0 was a 12-month,  online and part-time programme that was free for eligible jobseekers in Ireland.  The programme develops talent for Ireland’s high-growth Internet & digital technology sectors with a BSc (Ordinary) in Digital Technology, and Design  (Level 7) accredited by Dublin Institute of Technology (DIT). This is a 60-ECTS ‘add-on-year’ ordinary degree programme.
@@ -6,3 +6,13 @@ WebElevate 4.0 was a 12-month,  online and part-time programme that was free for
 The programme was delivered online, making it highly flexible and available to access from anywhere in Ireland.
 
 There will be examples of assignments and project work produced by myself between October, 2015 until October, 2016.
+
+
+## Examples of the following:
+
+### AngularJS
+### jQuery Mobile
+### Web Service (PhP)
+### HTML Build and PHP/MySQL Script
+### Industry Partner Project (WordPress website and Game) - Cannot upload until client has published website or app as a finished product.
+
