@@ -1,13 +1,2 @@
-"Assume that your app could be wired up to some server side data feed, but build it using mockup client side content (i.e. clearly indicate in your comments the portions of the code that you think should be dynamic if the app were using live data."
-
-// The elements from the XML feed would be dynamically fed into the divs created in the below code:
-
-var ID = $(this).find('ID').text();
-var HEADER = $(this).find('HEADER').text();
-var DESCRIPTION = $(this).find('DESCRIPTION').text();
-var FOOTER = $(this).find('FOOTER').text();
-
-
-/*Adds the elements from the array to the code*/
-
-var code = '<div data-role="page" class="shopping_item" id="' + ID + '"><div data-role="header"><h1>' + HEADER + '</h1><a href="#mypanel" data-icon="info"><span class="ui-icon ui-icon-bars ui-icon-shadow">&nbsp;</span>Info</a></div><div data-role="content"><p>' + DESCRIPTION + '</p><a href="#food_list">Back To Shopping List</a></div><div data-role="footer"><h1>' + FOOTER +'</h1></div></div>'
+WebElevate 4.0 (MWA) Mobile Web Application module.  Used the Mobile jQuery library to build a list
+style mobile web app. My list is generated from a JSON file that I hand coded.
