@@ -1,0 +1,17 @@
+[27-Apr-2016 14:51:43 America/Chicago] PHP Warning:  mysqli_stmt::close(): Couldn't fetch mysqli_stmt in /home/site519/public_html/ConnectedCare/includes/register.inc.php on line 68
+[27-Apr-2016 14:54:14 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/site519/public_html/ConnectedCare/includes/login.modal.php:27) in /home/site519/public_html/ConnectedCare/includes/register.inc.php on line 95
+[27-Apr-2016 15:51:29 America/Chicago] PHP Warning:  mysqli_stmt::close(): Couldn't fetch mysqli_stmt in /home/site519/public_html/ConnectedCare/includes/register.inc.php on line 68
+[28-Apr-2016 06:47:41 America/Chicago] PHP Warning:  mysqli_stmt::close(): Couldn't fetch mysqli_stmt in /home/site519/public_html/ConnectedCare/includes/register.inc.php on line 48
+[28-Apr-2016 06:47:41 America/Chicago] PHP Warning:  mysqli_stmt::close(): Couldn't fetch mysqli_stmt in /home/site519/public_html/ConnectedCare/includes/register.inc.php on line 68
+[28-Apr-2016 07:01:36 America/Chicago] PHP Warning:  mysqli_stmt::close(): Couldn't fetch mysqli_stmt in /home/site519/public_html/ConnectedCare/includes/register.inc.php on line 49
+[28-Apr-2016 07:01:36 America/Chicago] PHP Warning:  mysqli_stmt::close(): Couldn't fetch mysqli_stmt in /home/site519/public_html/ConnectedCare/includes/register.inc.php on line 69
+[28-Apr-2016 07:01:42 America/Chicago] PHP Warning:  mysqli_stmt::close(): Couldn't fetch mysqli_stmt in /home/site519/public_html/ConnectedCare/includes/register.inc.php on line 49
+[28-Apr-2016 07:01:42 America/Chicago] PHP Warning:  mysqli_stmt::close(): Couldn't fetch mysqli_stmt in /home/site519/public_html/ConnectedCare/includes/register.inc.php on line 69
+[05-May-2016 12:47:17 Europe/London] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/site519/public_html/ConnectedCare/Documentation/index.php:3) in /home/site519/public_html/ConnectedCare/includes/session.class.php on line 58
+[05-May-2016 12:47:17 Europe/London] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/site519/public_html/ConnectedCare/includes/session.class.php on line 59
+[09-May-2016 17:00:17 America/Chicago] PHP Warning:  include(/ConnectedCare/includes/header.php): failed to open stream: No such file or directory in /home/site519/public_html/ConnectedCare/Documentation/index.php on line 5
+[09-May-2016 17:00:17 America/Chicago] PHP Warning:  include(): Failed opening '/ConnectedCare/includes/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/site519/public_html/ConnectedCare/Documentation/index.php on line 5
+[09-May-2016 17:00:17 America/Chicago] PHP Fatal error:  Call to undefined function esc_url() in /home/site519/public_html/ConnectedCare/includes/contact.modal.php on line 30
+[09-May-2016 17:00:41 America/Chicago] PHP Warning:  include(../ConnectedCare/includes/header.php): failed to open stream: No such file or directory in /home/site519/public_html/ConnectedCare/Documentation/index.php on line 5
+[09-May-2016 17:00:41 America/Chicago] PHP Warning:  include(): Failed opening '../ConnectedCare/includes/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/site519/public_html/ConnectedCare/Documentation/index.php on line 5
+[09-May-2016 17:00:41 America/Chicago] PHP Fatal error:  Call to undefined function esc_url() in /home/site519/public_html/ConnectedCare/includes/contact.modal.php on line 30

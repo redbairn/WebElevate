@@ -1,0 +1,1 @@
+[20-May-2016 08:13:36 UTC] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /home/site519/public_html/ConnectedCare/Blog/wp-content/plugins/bootstrap-3-shortcodes/bootstrap-shortcodes.php on line 2035

@@ -1,0 +1,46 @@
+section.fix_container {
+    position: fixed;
+    width: 102%;
+    z-index: 2;
+    bottom: 0px;
+    flex-flow: row;
+    display: flex;
+    text-align: center;
+    z-index: 10;
+    padding: 10px;
+}
+
+section.fix_container a i.fa {
+    font-size: 20px;
+}
+
+.contact_us_box {
+    border-right: 1px solid white;
+    border-left: 1px solid white;
+}
+
+
+section.fix_container {
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#0c3249+1,000000+100 */
+background: rgb(12,50,73); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(12,50,73,0.8) 1%,rgba(0,0,0,0.9) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, rgba(12,50,73,0.8) 1%,rgba(0,0,0,0.9) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(12,50,73,0.8) 1%,rgba(0,0,0,0.9) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0c3249', endColorstr='#000000',GradientType=0 ); /* IE6-9 */
+    }
+.login_box, .contact_us_box, .quick_cakll_box {
+    
+    padding: 0px;
+    
+}
+
+
+.login_box a, .contact_us_box a, .quick_cakll_box a  {
+    color: white;
+    text-align: center;
+
+}
+
+.login_box a:hover, .contact_us_box a:hover, .quick_cakll_box a:hover  {
+    margin-left: 10px !important;
+} 

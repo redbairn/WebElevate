@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://site519.webelevate.net/ConnectedCare/</loc>
+</url>
+<url>
+  <loc>http://site519.webelevate.net/ConnectedCare/About/</loc>
+</url>
+<url>
+  <loc>http://site519.webelevate.net/ConnectedCare/Functionality/</loc>
+</url>
+<url>
+  <loc>http://site519.webelevate.net/ConnectedCare/Documentation/</loc>
+</url>
+<url>
+  <loc>http://site519.webelevate.net/ConnectedCare/phpmailer/reset.php</loc>
+</url>
+<url>
+  <loc>http://site519.webelevate.net/ConnectedCare/assets/pdf/Additional_Task_Case_Graph_Format.pdf</loc>
+  <lastmod>2016-05-10T18:42:54+00:00</lastmod>
+</url>
+<url>
+  <loc>http://site519.webelevate.net/ConnectedCare/assets/pdf/Task_Case%202_Graph_format.pdf</loc>
+  <lastmod>2016-05-10T18:35:45+00:00</lastmod>
+</url>
+<url>
+  <loc>http://site519.webelevate.net/ConnectedCare/assets/pdf/State_Transition_Diagram_Overview.pdf</loc>
+  <lastmod>2016-05-09T21:20:50+00:00</lastmod>
+</url>
+</urlset>
