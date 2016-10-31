@@ -1,0 +1,47 @@
+<!-- ************************************************************************************* 
+* Author: Craig Bell
+* Assignment: WE4.0 Mobile Web Applications, Digital Skills Academy 
+* Student ID: D15126839 
+* Date: 2016/05/16
+* Ref: https://codepen.io/Russbrown/pen/IgBuh // For some of styles and getTotalTodos
+************************************************************************************-->
+
+<!doctype html>
+
+<html lang="en" ng-app="ToDo">
+	<head>
+		<meta charset="utf-8">
+		<title>ToDo List</title>
+		<link rel="stylesheet" href="css/main.css">
+	</head>
+	<body>
+		<div class="container todo-wrapper" ng-controller="todoController">
+			<h2>You've got <span class="emphasis">{{getTotalTodos()}}</span> items to bring to Korea!</h2>
+			<ul>
+				<li data-ng-repeat="todo in todos | filter:searchItem">
+					<input type="checkbox" ng-model="todo.done" />
+					<span ng-class="{'done':todo.done}">{{todo.title}}</span>
+				
+				</li>
+			</ul>
+			
+			<form name="frm" ng-submit="addTodo()">
+				<input class="add-input" placeholder="I need..." type="text" name="newtodo" ng-model="newTodo" required />
+				<button class="add-btn" ng-disabled="frm.$invalid"><h2>Add</h2>
+				</button>
+			</form>
+			<div class="options">
+				<h2>Options:</h2>
+				<button class="clear-btn" ng-click="clearCompleted()">Remove</button>
+
+					<input class="search-input" placeholder="Search for..." type="text" data-ng-model="searchItem" />{{searchName}}
+
+			</div>
+		</div>
+	<script type="text/javascript" src="js/angular.min.js"></script>
+	<script type="text/javascript" src="controller.js"></script>
+	<!--Both below items are from this CodePen (https://codepen.io/Russbrown/pen/IgBuh)-->
+	<script type="text/javascript" src="js/megrim.js"></script>
+	<script type="text/javascript" src="js/shadow.js"></script>
+	</body>
+</html>
