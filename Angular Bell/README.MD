@@ -1,6 +1,6 @@
 # :iphone: AngularJS :iphone:
 
-## Build	a	single page to-do	list,	mobile	web	application	using	Angular.js,	and	package	it	with	PhoneGap Build.	
+## Built	a	single page to-do	list,	mobile	web	application	using	Angular.js,	and	packaged	it	with	PhoneGap Build.	
 
 Features	and	Instructions:	
 
