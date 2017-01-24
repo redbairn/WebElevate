@@ -6,6 +6,7 @@ This assignment forms part of my Minor Project which was planned with three Proj
 I was required to base this project on the design given to me by my team designer.
 
 :clipboard: Task: Develop a web site prototype of my minor project design.
+
 :bulb: The Idea: *"ConnectedCare - Smart Home is a support system for vulnerable individuals of living at home. It is the connecting of modern technologies with both the supporting community and the family that has lead to our name - ConnectedCare - Smart Home."*
 
 My application includes a website containing a selection of html pages and a
