@@ -15,7 +15,8 @@ This module consolidates the learning and skills development of the shared and s
 ###About the Client
 The client was a school teacher that approached the Digital Skills Academy with an app that she would like developed. She was considering on getting a book produced however due to the amount of content the publishers advised her on getting an app created instead.
 
-**Due to a NDA we have in place with the client I can't provide further information or show more files**
+**Due to a NDA we have in place with the client I can't provide further information or show more files.**
+
 **When the client has their app/website fully produced I will probably updated this repository with the additional files from the project**
 
 ###About the Project
