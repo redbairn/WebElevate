@@ -11,5 +11,7 @@ Here are examples of assignments and project work produced by myself between Oct
 ### [jQuery Mobile] (https://github.com/redbairn/WebElevate/tree/master/ShoppingList)
 ### [Web Service (PHP)] (https://github.com/redbairn/WebElevate/tree/master/myAPI)
 ### [HTML Build and PHP/MySQL Script ("ConnectedCare")] (https://github.com/redbairn/WebElevate/tree/master/ConnectedCare)
-### Industry Partner Project (WordPress website and Game) - Cannot upload until client has published website or app as a finished product.
+### [Industry Partner Project (WordPress website and Game)] (https://github.com/redbairn/WebElevate/tree/master/IPP)
+
+- Cannot upload until client has published website or app as a finished product.
 
