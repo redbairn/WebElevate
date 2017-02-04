@@ -17,6 +17,7 @@ The boards were to show the current difficulty level, current question number, a
 
 
 In the game-logic.php file the following steps are happening:
+
 1. The users submitted difficulty level and the chosen subtopic name stored in variables.
 2. A temporary database table created for the user logged in.
 3. A trigger that ensures only 10 rows are in the new temporary table.
