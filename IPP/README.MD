@@ -17,10 +17,10 @@ The client was a school teacher that approached the Digital Skills Academy with 
 
 >**Due to a NDA we have in place with the client I can't provide further information or show more files.**
 
->**When the client has their app/website fully produced I will probably updated this repository with the additional files from the project**
+>**When the client has their app/website fully produced I will probably update this repository with the additional files from the project**
 
 ###About the Project
-The website, which was built using WordPress, is built using HTML, CSS, JavaScript, jQuery, PHP and MySQL.  The presentation for the main parts of the website being in HTML, CSS and JavaScript with animations in jQuery. Due to a NDA and permission from the client that we worked with I can only include the parts from the Game and topic pages.
+The website, which was built using WordPress, is built using HTML, CSS, JavaScript, jQuery, PHP and MySQL.  The presentation for the main parts of the website being in HTML, CSS and JavaScript with animations in jQuery. Due to a NDA and permission from the client that we worked with I can only include the parts from the Game and Topic pages.
 
 ####Topics Page
 From the [topic-logic.php] (https://github.com/redbairn/WebElevate/blob/master/IPP/Topics/topics-logic.php) you will see that I selected the topic name and subtopic name from the questions2 table and ordered them by the topic name. These populated the topics list and were embedded in an Accordion (Bootstrap was chosen framework for this feature). I had added a link to a modal which would display the difficulty level window.  This window would bring the user into the Game page once the difficulty was chosen.  I created the form that was in the difficulty level window and I passed the value of the chosen subtopic (from the list on the page) using jQuery to this form.  This was submitted across with other values to use on the game-logic.php thereafter.
