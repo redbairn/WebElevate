@@ -6,11 +6,11 @@ This module consolidates the learning and skills development of the shared and s
 
 **The following were the learning outcomes:**
 
-- Conducted a product design team-based workshop and agree and present a fincal concept design.
+- Conducted a product design team-based workshop and agreed and presented a final concept design.
 - Produced a digital prototype that demonstrates a user-centric approach toward design and development.
 - Demonstrated research and data-gathering capabilities by creating personas, scenarios and use cases.
 - Produced a complete set of UX design documentation, including functional and design specifications, wireframes and application flow charts.
-- Created a set of production sprint plans and demonstrate the results of each sprint.
+- Created a set of production sprint plans and demonstrated the results of each sprint.
 
 ###About the Client
 The client was a school teacher that approached the Digital Skills Academy with an app that she would like developed. She was considering on getting a book produced however due to the amount of content the publishers advised her on getting an app created instead.
