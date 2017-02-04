@@ -2,21 +2,29 @@
 ## Website and Development for the game.
 
 ###The Industry Partner Project (IPP)
-This module consolidates the learning and skills development of the shared and specialist modules undertaken by students in the course.
+This module consolidates the learning and skills development of the shared and specialist modules undertaken by students in the course such as myself.
+
+**The following were the learning outcomes:**
+
+- Conduct a product design team-based workshop and agree and present a fincal concept design.
+- Produce a digital prototype that demonstrates a user-centric approach toward design and development.
+- Demonstrate research and data-gathering capabilities by creating personas, scenarios and use cases.
+- Produce a complete set of UX design documentation, including functional and design specifications, wireframes and application flow charts.
+- Create a set of production sprint plans and demonstrate the results of each sprint.
 
 
 ###About the Project
 The website, which was built using WordPress, is built using HTML, CSS, JavaScript, jQuery, PHP and MySQL.  The presentation for the main parts of the website being in HTML, CSS and JavaScript with animations in jQuery. Due to a NDA and permission from the client that we worked with I can only include the parts from the Game and topic pages.
 
 ####Topics Page
-From the topic-logic.php you will see that I selected the topic name and subtopic name from the questions2 table and ordered them by the topic name. These populated the topics list and were embedded in an Accordion (Bootstrap was chosen framework for this feature). I had added a link to a modal which would display the difficulty level window.  This window would bring the user into the Game page once the difficulty was chosen.  I created the form that was in the difficulty level window and I passed the value of the chosen subtopic (from the list on the page) using jQuery to this form.  This was submitted across with other values to use on the game-logic.php thereafter.
+From the [topic-logic.php] (https://github.com/redbairn/WebElevate/blob/master/IPP/Topics/topics-logic.php) you will see that I selected the topic name and subtopic name from the questions2 table and ordered them by the topic name. These populated the topics list and were embedded in an Accordion (Bootstrap was chosen framework for this feature). I had added a link to a modal which would display the difficulty level window.  This window would bring the user into the Game page once the difficulty was chosen.  I created the form that was in the difficulty level window and I passed the value of the chosen subtopic (from the list on the page) using jQuery to this form.  This was submitted across with other values to use on the game-logic.php thereafter.
 
 ####Game Page
-Similar to the Topics Page, the Game Page (Game/index.php) was also a template for WordPress and follows the Parent (Topics) in the breadcrumbs. In this index.php I have the success and failure messages appearing after a submitted answer is processed. Going over the page, I display various pieces of data from the database or pass through values using hidden input fields.  These values are passed through to be used after the submitted answer is checked. For example, we can pass through the text of the current question or the equation (difficulty level equation) to appear above the submission box.
+Similar to the Topics Page, the Game Page ([Game/index.php] (https://github.com/redbairn/WebElevate/blob/master/IPP/Game/index.php)) was also a template for WordPress and follows the Parent (Topics) in the breadcrumbs. In this index.php I have the success and failure messages appearing after a submitted answer is processed. Going over the page, I display various pieces of data from the database or pass through values using hidden input fields.  These values are passed through to be used after the submitted answer is checked. For example, we can pass through the text of the current question or the equation (difficulty level equation) to appear above the submission box.
 The boards were to show the current difficulty level, current question number, attempts, etc.
 
 
-In the game-logic.php file the following steps are happening:
+In the [game-logic.php] (https://github.com/redbairn/WebElevate/blob/master/IPP/Game/game-logic.php) file the following steps are happening:
 
 1. The users submitted difficulty level and the chosen subtopic name stored in variables.
 2. A temporary database table created for the user logged in.
