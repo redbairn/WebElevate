@@ -13,5 +13,3 @@ Here are examples of assignments and project work produced by myself between Oct
 ### [HTML Build and PHP/MySQL Script ("ConnectedCare")] (https://github.com/redbairn/WebElevate/tree/master/ConnectedCare)
 ### [Industry Partner Project (WordPress website and Game)] (https://github.com/redbairn/WebElevate/tree/master/IPP)
 
-- Cannot upload until client has published website or app as a finished product.
-
