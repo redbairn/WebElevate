@@ -43,6 +43,7 @@ In the [game-logic.php] (https://github.com/redbairn/WebElevate/blob/master/IPP/
 
 
 ####Recommendations for further development
+The following were items were included in our Technical Guide for any developer that would be taking over the project for the client:
 
 1. Save the tries/attempts or retries in a table in the database but restrict the user from going passed 3 attempts (block submit button).
 2. Change the difficulty level to a lower lever after 2nd failed attempts (notify the user when dropping down).
@@ -50,10 +51,9 @@ In the [game-logic.php] (https://github.com/redbairn/WebElevate/blob/master/IPP/
 4. After completed all the questions show all the questions and their answers?
 5. After the main app questions load up the Revision questions (need to store the results of the correct answers on a table and make sure 3 of 5 correct).
 6. Mark the subtopic (100%) complete after they have got the (minimum of) 60% in the Revision section.
-7. Delete (Drop) the current\_user\_[USERNAME_HERE] table when the subtopic is complete and details stored in History table.
+7. Delete (Drop) the *current\_user\_[USERNAME_HERE]* table when the subtopic is complete and details stored in History table.
 8. User can now select a new subtopic to work on.
 9. Inform user on the Topics page that they currently have a game saved (if still in the middle of a game). Prompt asking them if they want to continue.
 10. Percentage of the Game play to be stored for the statistics section in the Assessment/Performance area.
 11. Progress per difficulty (how many questions completed using 'Easy'?).
-The additional sections for Revision and Assessment/Performance Area.  The images from Kamil’s designs should give an idea of what would need to be completed.
-
+The additional sections for Revision and Assessment/Performance Area.
