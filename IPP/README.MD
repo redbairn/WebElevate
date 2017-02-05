@@ -43,7 +43,7 @@ In the [game-logic.php] (https://github.com/redbairn/WebElevate/blob/master/IPP/
 
 
 ####Recommendations for further development
-The following were items were included in our Technical Guide for any developer that would be taking over the project for the client:
+The following were items which we included in our Technical Guide for any developer that would be taking over the project for the client:
 
 1. Save the tries/attempts or retries in a table in the database but restrict the user from going passed 3 attempts (block submit button).
 2. Change the difficulty level to a lower lever after 2nd failed attempts (notify the user when dropping down).
