@@ -2,7 +2,7 @@
 ## Website and Development for the game.
 
 ###The Industry Partner Project (IPP)
-This module consolidates the learning and skills development of the shared and specialist modules undertaken by students in the course such as myself. Our cross-functional team was made up of two coders, one designer and 2 project managers. The project was coordinated through online team meet ups with team members, mentors and advisors. A client had approached the Digital Skills Academy about a digital product and our team was assigned to the client who we were quite happy to work with.
+This module consolidates the learning and skills development of the shared and specialist modules undertaken by students in the course such as myself. Our cross-functional team was made up of two coders, one designer and two project managers. The project was coordinated through online team meet ups with team members, mentors and advisors. A client had approached the Digital Skills Academy about a digital product and our team was assigned to the client who we were quite happy to work with.
 
 **The following were the learning outcomes:**
 
