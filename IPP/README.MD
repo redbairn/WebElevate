@@ -31,8 +31,9 @@ The following were the tools that we used during our Industry Partner Project:-
 - Google Hangouts (for the Mentor Meeting; Quick chat)
 - Google Drive (Storage of assets, code, files from client, media files created for assignments, etc)
 
->We tried testing Slack but this was really used in the end (all the conversations were in GMail and Hangouts mainly).
->We also tried using BitBucket however we weren't allowed GIT on the shared hosting platform for the server so we had to dump the idea of using a proper VCS. 
+>**We tried testing Slack but this wasn't really used by all the team members in the end (all the conversations were in GMail and Hangouts mainly).**
+
+>**We also tried using BitBucket however we weren't allowed GIT on the shared hosting platform for the server so we had to dump the idea of using a proper VCS.**
 
 ####Topics Page
 From the [topic-logic.php] (https://github.com/redbairn/WebElevate/blob/master/IPP/Topics/topics-logic.php) you will see that I selected the topic name and subtopic name from the questions2 table and ordered them by the topic name. These populated the topics list and were embedded in an Accordion (Bootstrap was chosen framework for this feature). I had added a link to a modal which would display the difficulty level window.  This window would bring the user into the Game page once the difficulty was chosen.  I created the form that was in the difficulty level window and I passed the value of the chosen subtopic (from the list on the page) using jQuery to this form.  This was submitted across with other values to use on the game-logic.php thereafter.
