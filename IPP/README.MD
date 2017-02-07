@@ -2,7 +2,7 @@
 ## Website and Development for the game.
 
 ###The Industry Partner Project (IPP)
-This module consolidates the learning and skills development of the shared and specialist modules undertaken by students in the course such as myself. Our cross-functional team was made up of two coders, one designer and two project managers. The project was coordinated through online team meet ups with team members, mentors and advisors. A client had approached the Digital Skills Academy about a digital product and our team was assigned to the client who we were quite happy to work with.
+This module consolidates the learning and skills development of the shared and specialist modules undertaken by students in the course such as myself. Our (online/remote) cross-functional team was made up of two coders, one designer and two project managers. The project was coordinated through online team meet ups with team members, mentors and advisors. A client had approached the Digital Skills Academy about a digital product and our team was assigned to the client who we were quite happy to work with.
 
 **The following were the learning outcomes:**
 
@@ -21,6 +21,18 @@ The client was a school teacher that approached the Digital Skills Academy with 
 
 ###About the Project
 The website, which was built using WordPress, is built using HTML, CSS, JavaScript, jQuery, PHP and MySQL.  The presentation for the main parts of the website being in HTML, CSS and JavaScript with animations in jQuery. Due to a NDA and permission from the client that we worked with I can only include the parts from the Game and Topic pages.
+
+###The Team Tools
+The following were the tools that we used during our Industry Partner Project:-
+
+- GMail (Detailed threads)
+- Google Calendar (Organising recurring Team Meeting, IT Meetings, Ad hoc meetings and Face-to-Face meetings)
+- Skype (Group Meetings, IT Meetings)
+- Google Hangouts (for the Mentor Meeting; Quick chat)
+- Google Drive (Storage of assets, code, files from client, media files created for assignments, etc)
+
+>We tried testing Slack but this was really used in the end (all the conversations were in GMail and Hangouts mainly).
+>We also tried using BitBucket however we weren't allowed GIT on the shared hosting platform for the server so we had to dump the idea of using a proper VCS. 
 
 ####Topics Page
 From the [topic-logic.php] (https://github.com/redbairn/WebElevate/blob/master/IPP/Topics/topics-logic.php) you will see that I selected the topic name and subtopic name from the questions2 table and ordered them by the topic name. These populated the topics list and were embedded in an Accordion (Bootstrap was chosen framework for this feature). I had added a link to a modal which would display the difficulty level window.  This window would bring the user into the Game page once the difficulty was chosen.  I created the form that was in the difficulty level window and I passed the value of the chosen subtopic (from the list on the page) using jQuery to this form.  This was submitted across with other values to use on the game-logic.php thereafter.
